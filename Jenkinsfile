@@ -3,7 +3,7 @@ pipeline {
    
 
     environment {
-       GITWEBADD = 'https://github.com/oolralra/fast-code.git'
+       GITWEBADD = 'https://github.com/Vinca0121/fast-code.git'
         // 환경변수 정의 가능.
        GITCREDENTIAL = 'git_cre'
     }
